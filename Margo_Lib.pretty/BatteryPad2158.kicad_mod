@@ -1,0 +1,10 @@
+(module BatteryPad2158 (layer F.Cu) (tedit 5BE1C4A8)
+  (fp_text reference J4 (at -0.72 -4.57) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Conn_01x02_Female (at -0.7 1.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd roundrect (at 0 -8.5) (size 2.5 6) (layers F.Cu F.Mask) (roundrect_rratio 0.3))
+  (pad 2 smd roundrect (at 0 8.5) (size 2.5 6) (layers F.Cu F.Mask) (roundrect_rratio 0.3))
+)
