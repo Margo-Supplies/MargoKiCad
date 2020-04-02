@@ -5,10 +5,6 @@ D Accelerometer, Gyroscope, Magnetometer, 9 Axis Sensor I²C, SPI Output
 F https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmx160-ds0001.pdf
 $ENDCMP
 #
-$CMP PE42424
-D IC RF SWITCH SPDT 6GHZ 16QFN
-$ENDCMP
-#
 $CMP SX1262
 D 860 MHz to 1020 MHz Low Power Long Range Transceiver
 K low-power lora transceiver
