@@ -9,4 +9,16 @@ $CMP PE42424
 D IC RF SWITCH SPDT 6GHZ 16QFN
 $ENDCMP
 #
+$CMP SX1262
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver
+K low-power lora transceiver
+F https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1262
+$ENDCMP
+#
+$CMP SX1273
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 9, LoRA, QFN-28
+K low-power lora transceiver
+F https://www.semtech.com/uploads/documents/sx1272.pdf
+$ENDCMP
+#
 #End Doc Library
