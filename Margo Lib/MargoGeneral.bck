@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AudioJack4_SwitchTR1
+D CONN JACK 4COND 3.5MM SMD R/A
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
 $CMP BMX160
 D Accelerometer, Gyroscope, Magnetometer, 9 Axis Sensor I²C, SPI Output
 F https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmx160-ds0001.pdf
