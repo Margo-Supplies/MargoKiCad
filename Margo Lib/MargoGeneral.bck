@@ -726,6 +726,10 @@ K dual-cool-powertrench MOSFET fairchild
 F https://www.fairchildsemi.com/datasheets/FD/FDMT80080DC.pdf
 $ENDCMP
 #
+$CMP STM32G030C8T6
+D IC MCU 32BIT 64KB FLASH 48LQFP
+$ENDCMP
+#
 $CMP SX1262
 D 860 MHz to 1020 MHz Low Power Long Range Transceiver
 K low-power lora transceiver
