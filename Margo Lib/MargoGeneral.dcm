@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 16x2LCDDaughter
+D Daughterboard with LCD installed
+$ENDCMP
+#
 $CMP AudioJack4_SwitchTR1
 D CONN JACK 4COND 3.5MM SMD R/A
 K audio jack receptacle stereo headphones phones TRS connector
