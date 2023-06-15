@@ -9561,7 +9561,7 @@
         (name "SDA" (effects (font (size 1.27 1.27))))
         (number "D1" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 60.96 11.43 180) (length 2.54)
+      (pin input line (at 60.96 8.89 180) (length 2.54)
         (name "CON_E2" (effects (font (size 1.27 1.27))))
         (number "D2" (effects (font (size 1.27 1.27))))
       )
