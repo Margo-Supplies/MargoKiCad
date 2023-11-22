@@ -33,11 +33,7 @@
           (xy -2.54 -5.08)
           (xy -2.54 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.1524) (type solid))
-=======
         (stroke (width 0.1524) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -45,11 +41,7 @@
           (xy -2.54 5.08)
           (xy 2.54 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.1524) (type solid))
-=======
         (stroke (width 0.1524) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -57,11 +49,7 @@
           (xy 2.54 -5.08)
           (xy -2.54 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.1524) (type solid))
-=======
         (stroke (width 0.1524) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin passive line (at -5.08 2.54 0) (length 2.54)
@@ -79,11 +67,7 @@
     )
     (symbol "1002427_1_1"
       (rectangle (start -2.54 -5.08) (end 5.08 5.08)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -103,11 +87,7 @@
     )
     (symbol "150mA_LDO_0_1"
       (rectangle (start 0 -2.54) (end 8.89 5.08)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -151,11 +131,7 @@
     )
     (symbol "16x2LCDDaughter_0_1"
       (rectangle (start 0 0) (end 17.78 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -227,11 +203,7 @@
     )
     (symbol "16x2_Display_0_1"
       (rectangle (start 0 0) (end 20.32 22.86)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -333,11 +305,7 @@
     )
     (symbol "2199230-4_0_0"
       (rectangle (start -7.62 -48.26) (end 7.62 48.26)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -345,11 +313,7 @@
           (xy -7.62 -48.26)
           (xy -7.62 48.26)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -357,11 +321,7 @@
           (xy -7.62 48.26)
           (xy 7.62 48.26)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -369,11 +329,7 @@
           (xy 7.62 -48.26)
           (xy -7.62 -48.26)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -381,11 +337,7 @@
           (xy 7.62 48.26)
           (xy 7.62 -48.26)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin passive line (at -12.7 45.72 0) (length 5.08)
@@ -688,11 +640,7 @@
           (xy -5.08 0)
           (xy -2.54 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -700,11 +648,7 @@
           (xy -2.54 2.54)
           (xy -2.54 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -712,11 +656,7 @@
           (xy 0 -2.54)
           (xy -1.27 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -724,11 +664,7 @@
           (xy 1.27 0)
           (xy 3.81 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -737,11 +673,7 @@
           (xy 0 -1.27)
           (xy -1.27 -1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -750,11 +682,7 @@
           (xy 0 1.27)
           (xy -2.54 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -764,11 +692,7 @@
           (xy 2.54 3.81)
           (xy 0 3.81)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -778,19 +702,11 @@
           (xy 2.54 0)
           (xy 1.27 -1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 0) (radius 5.08)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (circle (center 0 0) (radius 5.08)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -846,11 +762,7 @@
     )
     (symbol "3x4_Keypad_0_1"
       (rectangle (start 0 0) (end 3.81 17.78)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -909,11 +821,7 @@
     )
     (symbol "5034801000_0_0"
       (rectangle (start -5.08 -15.24) (end 5.08 17.78)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin passive line (at -10.16 15.24 0) (length 5.08)
@@ -981,11 +889,7 @@
     )
     (symbol "AM612_0_1"
       (rectangle (start 0 0) (end 11.43 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -1031,11 +935,7 @@
     )
     (symbol "AP9211_0_1"
       (rectangle (start 0 0) (end 10.16 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -1081,11 +981,7 @@
     )
     (symbol "AT25QL128A_0_1"
       (rectangle (start 0 0) (end 13.97 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -1144,11 +1040,7 @@
     )
     (symbol "AT45DB641E_0_1"
       (rectangle (start 0 -2.54) (end 20.32 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -1230,11 +1122,7 @@
     )
     (symbol "ATSAMD21G18A-MFT-MargoGeneral_0_1"
       (rectangle (start -10.16 38.1) (end 10.16 -33.02)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -1467,11 +1355,7 @@
     )
     (symbol "ATSAMD51J19A-AUT_0_0"
       (rectangle (start -43.18 -45.72) (end 29.21 45.72)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin bidirectional line (at -48.26 25.4 0) (length 5.08)
@@ -1765,11 +1649,7 @@
     )
     (symbol "ATSAMD51J19A-MU_0_0"
       (rectangle (start -12.7 -48.26) (end 12.7 48.26)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin bidirectional line (at -17.78 30.48 0) (length 5.08)
@@ -2051,11 +1931,7 @@
     )
     (symbol "Allegro_ACS70331_0_1"
       (rectangle (start 0 0) (end 15.24 16.51)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -2134,11 +2010,7 @@
     )
     (symbol "AudioJack4_SwitchTR1_0_1"
       (rectangle (start -7.62 -5.08) (end -8.89 -7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -2146,11 +2018,7 @@
           (xy 1.27 -5.08)
           (xy 2.54 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2158,11 +2026,7 @@
           (xy 1.27 2.54)
           (xy 2.54 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2170,11 +2034,7 @@
           (xy 2.54 0)
           (xy 1.27 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2182,19 +2042,11 @@
           (xy 2.54 5.08)
           (xy 1.27 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (rectangle (start 1.27 6.35) (end -7.62 -10.16)
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (rectangle (start 1.27 6.35) (end -7.62 -10.16)
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -2204,11 +2056,7 @@
           (xy -0.762 -0.254)
           (xy -0.508 -0.762)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2216,11 +2064,7 @@
           (xy 0.508 -5.334)
           (xy 0.762 -5.842)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2230,11 +2074,7 @@
           (xy 0 -5.08)
           (xy 1.27 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2244,11 +2084,7 @@
           (xy 0.508 -5.334)
           (xy 0.254 -5.842)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2258,11 +2094,7 @@
           (xy -0.762 -0.254)
           (xy -1.016 -0.762)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2273,11 +2105,7 @@
           (xy -1.905 0)
           (xy 1.27 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2288,11 +2116,7 @@
           (xy -4.445 -5.715)
           (xy -5.08 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -2303,11 +2127,7 @@
           (xy -6.35 -5.715)
           (xy -6.985 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin passive line (at 5.08 5.08 180) (length 2.54)
@@ -2336,18 +2156,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-  (symbol "BM83" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at 17.78 48.26 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "BM83" (at 17.78 40.64 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Margo_Lib:BM83" (at 17.78 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-=======
   (symbol "BGT60TR13C" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 54.61 34.29 0)
       (effects (font (size 1.27 1.27)))
@@ -2540,17 +2348,12 @@
     (property "Footprint" "Margo_Lib:BM83" (at 17.78 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
->>>>>>> Stashed changes
     (property "Datasheet" "" (at 17.78 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "BM83_0_1"
       (rectangle (start 0 0) (end 38.1 58.42)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -2757,8 +2560,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "BMI323" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2861,7 +2662,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "BMX160" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 20.32 0)
       (effects (font (size 1.27 1.27)))
@@ -2880,11 +2680,7 @@
     )
     (symbol "BMX160_0_1"
       (rectangle (start 0 0) (end 19.05 19.05)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -2962,11 +2758,7 @@
     )
     (symbol "BQ25505_0_1"
       (rectangle (start 0 0) (end 22.86 27.94)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -3072,11 +2864,7 @@
     )
     (symbol "BQ25570_0_1"
       (rectangle (start 0 0) (end 22.86 29.21)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -3167,8 +2955,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "BQ500101" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
@@ -3227,7 +3013,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "BoronBseries" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 1.27 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -3267,11 +3052,7 @@
     )
     (symbol "BoronBseries_0_0"
       (rectangle (start 20.32 0) (end 0 83.82)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin passive line (at -5.08 5.08 0) (length 5.08)
@@ -3575,11 +3356,7 @@
     )
     (symbol "BoronV1.0_0_1"
       (rectangle (start 0 0) (end 27.94 43.18)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -3713,11 +3490,7 @@
     )
     (symbol "CG2409X3_0_1"
       (rectangle (start 0 0) (end 15.24 11.43)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -4003,11 +3776,7 @@
     )
     (symbol "CMWX1ZZABZ-078_091_1_1"
       (rectangle (start -20.32 -26.67) (end 11.43 36.83)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -4040,11 +3809,7 @@
           (xy 0.254 0)
           (xy -2.54 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4052,11 +3817,7 @@
           (xy 0.254 1.905)
           (xy 0.254 -1.905)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4064,11 +3825,7 @@
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4076,11 +3833,7 @@
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4088,11 +3841,7 @@
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4100,11 +3849,7 @@
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4113,11 +3858,7 @@
           (xy 2.54 0)
           (xy 0.762 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4127,11 +3868,7 @@
           (xy 3.302 1.778)
           (xy 0.762 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4141,11 +3878,7 @@
           (xy 2.032 -0.381)
           (xy 1.016 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -4155,11 +3888,7 @@
           (xy 3.683 0.381)
           (xy 3.81 0.254)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -4169,21 +3898,6 @@
           (xy 3.683 -0.254)
           (xy 3.302 0.381)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 1.651 0) (radius 2.794)
-        (stroke (width 0.254) (type solid))
-        (fill (type none))
-      )
-      (circle (center 2.54 -1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-        (fill (type outline))
-      )
-      (circle (center 2.54 1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
@@ -4197,7 +3911,6 @@
       )
       (circle (center 2.54 1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
     )
@@ -6910,19 +6623,11 @@
     )
     (symbol "DMN4008LFG_1_1"
       (circle (center -0.889 0) (radius 2.794)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 -1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0.254) (type default))
         (fill (type none))
       )
       (circle (center 0 -1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -6930,11 +6635,7 @@
           (xy -2.286 0)
           (xy -5.08 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -6942,11 +6643,7 @@
           (xy -2.286 1.905)
           (xy -2.286 -1.905)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -6954,11 +6651,7 @@
           (xy -1.778 -1.27)
           (xy -1.778 -2.286)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -6966,11 +6659,7 @@
           (xy -1.778 0.508)
           (xy -1.778 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -6978,11 +6667,7 @@
           (xy -1.778 2.286)
           (xy -1.778 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -6990,11 +6675,7 @@
           (xy 0 2.54)
           (xy 0 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7003,11 +6684,7 @@
           (xy 0 0)
           (xy -1.778 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7017,11 +6694,7 @@
           (xy 0.762 1.778)
           (xy -1.778 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7031,11 +6704,7 @@
           (xy -0.508 -0.381)
           (xy -1.524 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -7045,11 +6714,7 @@
           (xy 1.143 0.381)
           (xy 1.27 0.254)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7059,19 +6724,11 @@
           (xy 1.143 -0.254)
           (xy 0.762 0.381)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (circle (center 0 1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (pin passive line (at 0 -5.08 90) (length 2.54)
@@ -7114,19 +6771,11 @@
     )
     (symbol "DMT3020LDV-7_1_1"
       (circle (center -0.889 0) (radius 2.794)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 -1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0.254) (type default))
         (fill (type none))
       )
       (circle (center 0 -1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -7134,11 +6783,7 @@
           (xy -2.286 0)
           (xy -5.08 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7146,11 +6791,7 @@
           (xy -2.286 1.905)
           (xy -2.286 -1.905)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7158,11 +6799,7 @@
           (xy -1.778 -1.27)
           (xy -1.778 -2.286)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7170,11 +6807,7 @@
           (xy -1.778 0.508)
           (xy -1.778 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7182,11 +6815,7 @@
           (xy -1.778 2.286)
           (xy -1.778 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7194,11 +6823,7 @@
           (xy 0 2.54)
           (xy 0 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7207,11 +6832,7 @@
           (xy 0 0)
           (xy -1.778 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7221,11 +6842,7 @@
           (xy 0.762 1.778)
           (xy -1.778 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7235,11 +6852,7 @@
           (xy -0.508 -0.381)
           (xy -1.524 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -7249,11 +6862,7 @@
           (xy 1.143 0.381)
           (xy 1.27 0.254)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7263,19 +6872,11 @@
           (xy 1.143 -0.254)
           (xy 0.762 0.381)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (circle (center 0 1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (pin passive line (at 0 -5.08 90) (length 2.54)
@@ -7293,19 +6894,11 @@
     )
     (symbol "DMT3020LDV-7_2_1"
       (circle (center -0.889 0) (radius 2.794)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 -1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0.254) (type default))
         (fill (type none))
       )
       (circle (center 0 -1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -7313,11 +6906,7 @@
           (xy -2.286 0)
           (xy -5.08 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7325,11 +6914,7 @@
           (xy -2.286 1.905)
           (xy -2.286 -1.905)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7337,11 +6922,7 @@
           (xy -1.778 -1.27)
           (xy -1.778 -2.286)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7349,11 +6930,7 @@
           (xy -1.778 0.508)
           (xy -1.778 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7361,11 +6938,7 @@
           (xy -1.778 2.286)
           (xy -1.778 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7373,11 +6946,7 @@
           (xy 0 2.54)
           (xy 0 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7386,11 +6955,7 @@
           (xy 0 0)
           (xy -1.778 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7400,11 +6965,7 @@
           (xy 0.762 1.778)
           (xy -1.778 1.778)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7414,11 +6975,7 @@
           (xy -0.508 -0.381)
           (xy -1.524 0)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (polyline
@@ -7428,11 +6985,7 @@
           (xy 1.143 0.381)
           (xy 1.27 0.254)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7442,19 +6995,11 @@
           (xy 1.143 -0.254)
           (xy 0.762 0.381)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 1.778) (radius 0.254)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (circle (center 0 1.778) (radius 0.254)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type outline))
       )
       (pin passive line (at 0 -5.08 90) (length 2.54)
@@ -7486,11 +7031,7 @@
     )
     (symbol "DRF1262T_0_1"
       (rectangle (start 0 0) (end 17.78 25.4)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -7591,33 +7132,6 @@
     )
     (symbol "DRQ127-330-R_0_1"
       (circle (center -3.048 -1.27) (radius 0.254)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type outline))
-      )
-      (circle (center -3.048 1.524) (radius 0.254)
-        (stroke (width 0) (type solid))
-        (fill (type outline))
-      )
-      (arc (start -2.54 2.032) (mid -2.032 1.5262) (end -1.524 2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start -1.524 -2.032) (mid -2.032 -1.5262) (end -2.54 -2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start -1.524 2.032) (mid -1.016 1.5262) (end -0.508 2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start -0.508 -2.032) (mid -1.016 -1.5262) (end -1.524 -2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start -0.508 2.032) (mid 0 1.5262) (end 0.508 2.032)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type outline))
       )
@@ -7643,7 +7157,6 @@
       )
       (arc (start -0.508 2.032) (mid 0 1.5262) (end 0.508 2.032)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7651,11 +7164,7 @@
           (xy -2.794 -0.508)
           (xy -2.286 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7663,11 +7172,7 @@
           (xy -2.794 0.508)
           (xy -2.286 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7675,11 +7180,7 @@
           (xy -2.54 -2.032)
           (xy -2.54 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7687,11 +7188,7 @@
           (xy -2.54 2.032)
           (xy -2.54 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7699,11 +7196,7 @@
           (xy -1.778 -0.508)
           (xy -1.27 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7711,11 +7204,7 @@
           (xy -1.778 0.508)
           (xy -1.27 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7723,11 +7212,7 @@
           (xy -0.762 -0.508)
           (xy -0.254 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7735,11 +7220,7 @@
           (xy -0.762 0.508)
           (xy -0.254 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7747,11 +7228,7 @@
           (xy 0.254 -0.508)
           (xy 0.762 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7759,11 +7236,7 @@
           (xy 0.254 0.508)
           (xy 0.762 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7771,11 +7244,7 @@
           (xy 1.27 -0.508)
           (xy 1.778 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7783,11 +7252,7 @@
           (xy 1.27 0.508)
           (xy 1.778 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7795,11 +7260,7 @@
           (xy 2.286 -0.508)
           (xy 2.794 -0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7807,11 +7268,7 @@
           (xy 2.286 0.508)
           (xy 2.794 0.508)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7819,11 +7276,7 @@
           (xy 2.54 -2.032)
           (xy 2.54 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -7831,29 +7284,6 @@
           (xy 2.54 2.54)
           (xy 2.54 2.032)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start 0.508 -2.032) (mid 0 -1.5262) (end -0.508 -2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start 0.508 2.032) (mid 1.016 1.5262) (end 1.524 2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start 1.524 -2.032) (mid 1.016 -1.5262) (end 0.508 -2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start 1.524 2.032) (mid 2.032 1.5262) (end 2.54 2.032)
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (arc (start 2.54 -2.032) (mid 2.032 -1.5262) (end 1.524 -2.032)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
@@ -7875,7 +7305,6 @@
       )
       (arc (start 2.54 -2.032) (mid 2.032 -1.5262) (end 1.524 -2.032)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -7913,11 +7342,7 @@
     )
     (symbol "DRV2700_0_1"
       (rectangle (start 0 0) (end 20.32 26.67)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -8008,8 +7433,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "DRV8873SPWPRQ1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 26.162 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -8211,7 +7634,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "DS1339A" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 12.7 11.43 0)
       (effects (font (size 1.27 1.27)))
@@ -8227,11 +7649,7 @@
     )
     (symbol "DS1339A_0_1"
       (rectangle (start 0 0) (end 13.97 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -8285,19 +7703,11 @@
     )
     (symbol "DS31758_0_1"
       (rectangle (start 0 0) (end 12.7 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type background))
-      )
-      (rectangle (start 10.16 12.7) (end 10.16 12.7)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type background))
       )
       (rectangle (start 10.16 12.7) (end 10.16 12.7)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -8353,11 +7763,7 @@
           (xy 1.27 3.81)
           (xy 1.27 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -8367,11 +7773,7 @@
           (xy 8.89 3.81)
           (xy 8.89 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -8381,11 +7783,7 @@
           (xy 3.81 5.08)
           (xy 3.81 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -8395,19 +7793,11 @@
           (xy 1.27 6.35)
           (xy 1.27 3.81)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (rectangle (start 0 0) (end 12.7 7.62)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (rectangle (start 0 0) (end 12.7 7.62)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -8449,11 +7839,7 @@
     )
     (symbol "ERC12864_0_1"
       (rectangle (start 0 0) (end 26.67 48.26)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -8610,11 +7996,7 @@
     )
     (symbol "EVA-M8M-0-MargoGeneral_0_0"
       (rectangle (start -20.32 -27.94) (end 20.32 25.4)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -8622,11 +8004,7 @@
           (xy -20.32 -27.94)
           (xy 20.32 -27.94)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -8634,11 +8012,7 @@
           (xy -20.32 25.4)
           (xy -20.32 -27.94)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -8646,11 +8020,7 @@
           (xy 20.32 -27.94)
           (xy 20.32 25.4)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin input line (at 22.86 10.16 180) (length 2.54)
@@ -8814,11 +8184,7 @@
     )
     (symbol "HOPERFM95W_0_1"
       (rectangle (start 0 0) (end 15.24 26.67)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -8919,11 +8285,7 @@
     )
     (symbol "HTS221TR_0_0"
       (rectangle (start -15.24 -10.16) (end 15.24 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin power_in line (at 20.32 7.62 180) (length 5.08)
@@ -8972,11 +8334,7 @@
     )
     (symbol "ICFLASH_0_1"
       (rectangle (start 0 -2.54) (end 20.32 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9034,11 +8392,7 @@
     )
     (symbol "Iridium9603_0_1"
       (rectangle (start 0 0) (end 25.4 25.4)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9144,11 +8498,7 @@
           (xy -3.81 6.35)
           (xy -1.27 3.81)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -9158,11 +8508,7 @@
           (xy -1.27 3.81)
           (xy -2.54 3.81)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -9173,19 +8519,11 @@
           (xy -5.08 2.54)
           (xy -3.81 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type none))
-      )
-      (circle (center 0 0) (radius 3.81)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (circle (center 0 0) (radius 3.81)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -9215,11 +8553,7 @@
     )
     (symbol "LAMBDA62-9_0_1"
       (rectangle (start 0 0) (end 20.32 22.86)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9290,18 +8624,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-  (symbol "LM2750" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at 11.43 -1.27 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "LM2750" (at 3.81 -1.27 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-=======
   (symbol "LIS2DTW12" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 11.43 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -9392,17 +8714,12 @@
     (property "Footprint" "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
->>>>>>> Stashed changes
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "LM2750_0_1"
       (rectangle (start 0 0) (end 11.43 11.43)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9468,11 +8785,7 @@
     )
     (symbol "LM2941_TO263-5_0_1"
       (rectangle (start 0 0) (end 16.51 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9514,11 +8827,7 @@
     )
     (symbol "LM94021_0_1"
       (rectangle (start 0 0) (end 7.62 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9560,11 +8869,7 @@
     )
     (symbol "LT3572_0_1"
       (rectangle (start 0 -3.81) (end 16.51 25.4)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9677,11 +8982,7 @@
           (xy -15.24 -45.72)
           (xy -15.24 40.64)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -9689,11 +8990,7 @@
           (xy -15.24 40.64)
           (xy 17.78 40.64)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -9701,11 +8998,7 @@
           (xy 17.78 -45.72)
           (xy -15.24 -45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -9713,11 +9006,7 @@
           (xy 17.78 40.64)
           (xy 17.78 -45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin input line (at -20.32 35.56 0) (length 5.08)
@@ -9951,11 +9240,7 @@
     )
     (symbol "LT8490EUKJ#PBF_1_1"
       (rectangle (start -15.24 40.64) (end 17.78 -45.72)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -9975,11 +9260,7 @@
     )
     (symbol "MAX-M10S_0_1"
       (rectangle (start 0 0) (end 26.67 27.94)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -10073,11 +9354,7 @@
     )
     (symbol "MAX-M8Q_0_1"
       (rectangle (start 0 0) (end 26.67 27.94)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -10156,8 +9433,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "MAX17260BEWL+T" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -12.7 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -10226,7 +9501,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "MAX2659-MargoGeneral" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 -1.27 0)
       (effects (font (size 1.27 1.27)))
@@ -10242,11 +9516,7 @@
     )
     (symbol "MAX2659-MargoGeneral_0_1"
       (rectangle (start 0 0) (end 13.97 8.89)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -10314,11 +9584,7 @@
           (xy -12.7 -30.48)
           (xy 12.7 -30.48)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -10326,11 +9592,7 @@
           (xy -12.7 30.48)
           (xy -12.7 -30.48)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -10338,11 +9600,7 @@
           (xy 12.7 -30.48)
           (xy 12.7 30.48)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -10350,11 +9608,7 @@
           (xy 12.7 30.48)
           (xy -12.7 30.48)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin output line (at 17.78 20.32 180) (length 5.08)
@@ -10460,17 +9714,11 @@
     )
     (symbol "MAX9768BETG+_1_1"
       (rectangle (start -12.7 -30.48) (end 12.7 30.48)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "MIA-M10Q" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.08 35.56 0)
       (effects (font (size 1.27 1.27)))
@@ -10705,7 +9953,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "MIC2042-1BM" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 1.27 25.4 0)
       (effects (font (size 1.27 1.27)))
@@ -10721,11 +9968,7 @@
     )
     (symbol "MIC2042-1BM_0_1"
       (rectangle (start 0 0) (end 12.7 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -10764,8 +10007,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "MIC2288D5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 -10.16 0)
       (effects (font (size 1.27 1.27)))
@@ -10808,7 +10049,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "MIC5225" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -8.89 -2.54 0)
       (effects (font (size 1.27 1.27)))
@@ -10824,11 +10064,7 @@
     )
     (symbol "MIC5225_0_1"
       (rectangle (start 0 0) (end 13.97 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -10870,11 +10106,7 @@
     )
     (symbol "MK20DX256VLH7_0_1"
       (rectangle (start 0 0) (end 22.86 101.6)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -11152,11 +10384,7 @@
     )
     (symbol "Murata_1SJ_295_0_1"
       (rectangle (start 0 0) (end 25.4 52.07)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -11387,8 +10615,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "Murata_1SJ_296" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -16.51 -5.08 0)
       (effects (font (size 1.27 1.27)))
@@ -11635,7 +10861,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "NCP1403" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 2.54 -10.16 0)
       (effects (font (size 1.27 1.27)))
@@ -11651,11 +10876,7 @@
     )
     (symbol "NCP1403_0_1"
       (rectangle (start 0 0) (end 11.43 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -11697,11 +10918,7 @@
     )
     (symbol "NCP161_WLCSP4_1_1"
       (rectangle (start 3.81 0) (end 13.97 5.08)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin passive line (at 0 3.81 0) (length 3.81)
@@ -11737,11 +10954,7 @@
     )
     (symbol "NCV8170_0_1"
       (rectangle (start 0 0) (end 8.89 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -11769,17 +10982,10 @@
     )
   )
   (symbol "NCV8402ADDR2G" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-<<<<<<< Updated upstream
-    (property "Reference" "U" (at 6.35 6.35 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "NCV8402ADDR2G" (at 13.97 8.89 0)
-=======
     (property "Reference" "U" (at 6.35 9.525 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "NCV8402ADDR2G" (at 13.335 7.62 0)
->>>>>>> Stashed changes
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (at 0 -1.27 0)
@@ -11790,19 +10996,11 @@
     )
     (symbol "NCV8402ADDR2G_0_1"
       (rectangle (start 0 0) (end 5.08 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-        (fill (type background))
-      )
-      (rectangle (start 7.62 3.81) (end 7.62 3.81)
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
         (fill (type background))
       )
       (rectangle (start 7.62 3.81) (end 7.62 3.81)
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -11843,18 +11041,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-  (symbol "Nine_B3" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at 34.29 91.44 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "Nine_B3" (at 36.83 88.9 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Margo_Lib:NINA-B306-00B-00" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-=======
   (symbol "NINA-B302-00B" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -12527,17 +11713,12 @@
     (property "Footprint" "Margo_Lib:NINA-B306-00B-00" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
->>>>>>> Stashed changes
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Nine_B3_0_1"
       (rectangle (start 0 0) (end 40.64 100.33)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -12783,11 +11964,7 @@
     )
     (symbol "PAM2804_0_1"
       (rectangle (start 0 0) (end 10.16 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -12829,11 +12006,7 @@
     )
     (symbol "PAM8904Q_0_1"
       (rectangle (start 0 0) (end 19.05 24.13)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -12923,11 +12096,7 @@
     )
     (symbol "PE42641_0_1"
       (rectangle (start 0 0) (end 27.94 13.97)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13013,11 +12182,7 @@
     )
     (symbol "PEC16-2xxxF-Sxxxx_0_1"
       (rectangle (start 0 0) (end 10.16 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13063,11 +12228,7 @@
     )
     (symbol "R-78AA5.0-1.0SMD-R_0_1"
       (rectangle (start 0 0) (end 19.05 24.13)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13087,11 +12248,7 @@
     )
     (symbol "RXM-GPS-F4-T_0_1"
       (rectangle (start 0 0) (end 17.78 34.29)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13201,11 +12358,7 @@
     )
     (symbol "S-5712BNDL2-M3T1U-MargoGeneral_0_1"
       (rectangle (start 0 0) (end 10.16 7.62)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13239,11 +12392,7 @@
     )
     (symbol "SAMR34_0_1"
       (rectangle (start 0 0) (end 24.13 88.9)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -13529,11 +12678,7 @@
     )
     (symbol "SJ-3541A-TR-67_0_0"
       (rectangle (start -12.7 -12.7) (end 12.7 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -13541,11 +12686,7 @@
           (xy -12.7 -12.7)
           (xy -12.7 12.7)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13553,11 +12694,7 @@
           (xy -12.7 12.7)
           (xy 12.7 12.7)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13565,11 +12702,7 @@
           (xy -10.16 -4.318)
           (xy -5.08 -4.318)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13577,11 +12710,7 @@
           (xy -10.16 5.08)
           (xy -10.16 -4.318)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13589,11 +12718,7 @@
           (xy -7.62 5.08)
           (xy -10.16 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13601,11 +12726,7 @@
           (xy -7.62 5.08)
           (xy -7.62 10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13613,11 +12734,7 @@
           (xy -7.62 10.16)
           (xy 12.7 10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13625,11 +12742,7 @@
           (xy -5.08 -4.318)
           (xy -5.08 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13637,11 +12750,7 @@
           (xy -5.08 5.08)
           (xy -7.62 5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13649,11 +12758,7 @@
           (xy -4.826 -7.62)
           (xy -3.556 -5.08)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13661,11 +12766,7 @@
           (xy -3.556 -5.08)
           (xy -2.286 -7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13673,11 +12774,7 @@
           (xy -2.794 7.62)
           (xy -1.524 6.35)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13685,11 +12782,7 @@
           (xy -2.286 -7.62)
           (xy 12.7 -7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13697,11 +12790,7 @@
           (xy -1.524 6.35)
           (xy -0.254 7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13709,11 +12798,7 @@
           (xy -0.254 7.62)
           (xy 12.7 7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13721,11 +12806,7 @@
           (xy 0 -2.54)
           (xy 1.27 -1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13733,11 +12814,7 @@
           (xy 0 2.54)
           (xy 1.27 1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13745,11 +12822,7 @@
           (xy 1.27 -1.27)
           (xy 2.54 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13757,11 +12830,7 @@
           (xy 1.27 0)
           (xy 1.27 -1.27)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.0762) (type solid))
-=======
         (stroke (width 0.0762) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13769,11 +12838,7 @@
           (xy 1.27 1.27)
           (xy 1.27 0.254)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.0762) (type solid))
-=======
         (stroke (width 0.0762) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13781,11 +12846,7 @@
           (xy 1.27 1.27)
           (xy 2.54 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13793,11 +12854,7 @@
           (xy 2.54 -2.54)
           (xy 12.7 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13805,11 +12862,7 @@
           (xy 2.54 2.54)
           (xy 12.7 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13817,11 +12870,7 @@
           (xy 12.7 -12.7)
           (xy -12.7 -12.7)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13829,11 +12878,7 @@
           (xy 12.7 -7.62)
           (xy 12.7 -12.7)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13841,11 +12886,7 @@
           (xy 12.7 -2.54)
           (xy 12.7 -7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -13853,11 +12894,7 @@
           (xy 12.7 2.54)
           (xy 12.7 -2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13865,11 +12902,7 @@
           (xy 12.7 7.62)
           (xy 12.7 2.54)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -13877,11 +12910,7 @@
           (xy 12.7 12.7)
           (xy 12.7 7.62)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin passive line (at 17.78 10.16 180) (length 5.08)
@@ -13906,8 +12935,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "SJ-3551B-MSMT-TR-67" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at -10.16 10.795 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -14210,7 +13237,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "STM32G030C8T6" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 83.82 0)
       (effects (font (size 1.27 1.27)))
@@ -14229,11 +13255,7 @@
     )
     (symbol "STM32G030C8T6_0_1"
       (rectangle (start 0 0) (end 29.21 82.55)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -14432,18 +13454,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-  (symbol "STM32WLE5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at -12.7 -2.54 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "STM32WLE5" (at -7.62 -6.35 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "Margo_Lib:STM32WL_BGA-81_9x9_5.0x5.0mm" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-=======
   (symbol "STM32G071GBU3" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 58.42 0)
       (effects (font (size 1.27 1.27)))
@@ -14991,17 +14001,12 @@
     (property "Footprint" "Margo_Lib:STM32WL_BGA-81_9x9_5.0x5.0mm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
->>>>>>> Stashed changes
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "STM32WLE5_0_1"
       (rectangle (start 0 0) (end 44.45 102.87)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -15383,11 +14388,7 @@
     )
     (symbol "SX1262_0_1"
       (rectangle (start -11.43 12.7) (end 11.43 -24.13)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -15532,11 +14533,7 @@
     )
     (symbol "SiTime1533_0_1"
       (rectangle (start 0 0) (end 10.16 8.89)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -15559,8 +14556,6 @@
       )
     )
   )
-<<<<<<< Updated upstream
-=======
   (symbol "SiZ904DT" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 2.54 3.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -15838,7 +14833,6 @@
       )
     )
   )
->>>>>>> Stashed changes
   (symbol "TAS5805M" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 39.37 0)
       (effects (font (size 1.27 1.27)))
@@ -15854,11 +14848,7 @@
     )
     (symbol "TAS5805M_0_1"
       (rectangle (start 0 0) (end 24.13 35.56)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -15996,11 +14986,7 @@
     )
     (symbol "TLV759P_0_1"
       (rectangle (start 0 0) (end 11.43 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16050,11 +15036,7 @@
     )
     (symbol "TMUX1511_QFN_0_1"
       (rectangle (start 0 0) (end 17.78 21.59)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16153,11 +15135,7 @@
           (xy -10.16 -10.16)
           (xy -10.16 10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16165,11 +15143,7 @@
           (xy -10.16 10.16)
           (xy 10.16 10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16177,11 +15151,7 @@
           (xy 10.16 -10.16)
           (xy -10.16 -10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16189,11 +15159,7 @@
           (xy 10.16 10.16)
           (xy 10.16 -10.16)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin power_in line (at 15.24 -7.62 180) (length 5.08)
@@ -16223,11 +15189,7 @@
     )
     (symbol "TPS56339DDCR-Power_Management_1_1"
       (rectangle (start -10.16 -10.16) (end 10.16 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16247,11 +15209,7 @@
     )
     (symbol "TPS61022_0_1"
       (rectangle (start 0 0) (end 11.43 10.16)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16301,11 +15259,7 @@
     )
     (symbol "TPS61178_0_1"
       (rectangle (start 0 0) (end 21.59 19.05)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16379,11 +15333,7 @@
     )
     (symbol "TPS61230_1_1"
       (rectangle (start 0 0) (end 11.43 15.24)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin input line (at 13.97 13.97 180) (length 2.54)
@@ -16447,11 +15397,7 @@
     )
     (symbol "TPS61232-MargoGeneral_0_1"
       (rectangle (start 0 0) (end 11.43 15.24)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16517,11 +15463,7 @@
     )
     (symbol "TPS63020_0_1"
       (rectangle (start 0 0) (end 15.24 21.59)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16616,11 +15558,7 @@
           (xy -22.86 -45.72)
           (xy -22.86 45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16628,11 +15566,7 @@
           (xy -22.86 45.72)
           (xy 22.86 45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16640,11 +15574,7 @@
           (xy 22.86 -45.72)
           (xy -22.86 -45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -16652,11 +15582,7 @@
           (xy 22.86 45.72)
           (xy 22.86 -45.72)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (pin power_in line (at 27.94 25.4 180) (length 5.08)
@@ -16974,11 +15900,7 @@
     )
     (symbol "TPS65987DDHRSHR_1_1"
       (rectangle (start -22.86 -45.72) (end 22.86 45.72)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -16998,11 +15920,7 @@
     )
     (symbol "TSC888_0_1"
       (rectangle (start 0 0) (end 10.16 12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -17047,19 +15965,11 @@
     )
     (symbol "TXS0104RGY_0_1"
       (rectangle (start -7.62 -15.24) (end -7.62 -12.7)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-        (fill (type none))
-      )
-      (rectangle (start -7.62 15.24) (end 7.62 -15.24)
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
         (fill (type none))
       )
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (polyline
@@ -17068,11 +15978,7 @@
           (xy -2.286 -6.731)
           (xy -0.508 -6.731)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17081,11 +15987,7 @@
           (xy -2.286 -1.651)
           (xy -0.508 -1.651)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17094,11 +15996,7 @@
           (xy -2.286 3.429)
           (xy -0.508 3.429)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17107,11 +16005,7 @@
           (xy -2.286 8.509)
           (xy -0.508 8.509)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17120,11 +16014,7 @@
           (xy 3.048 -8.763)
           (xy 1.27 -8.763)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17133,11 +16023,7 @@
           (xy 3.048 -3.683)
           (xy 1.27 -3.683)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17146,11 +16032,7 @@
           (xy 3.048 1.397)
           (xy 1.27 1.397)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17159,11 +16041,7 @@
           (xy 3.048 6.477)
           (xy 1.27 6.477)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17173,11 +16051,7 @@
           (xy -2.286 -7.747)
           (xy -4.064 -7.747)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17187,11 +16061,7 @@
           (xy 1.27 -9.779)
           (xy -0.508 -8.763)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17201,11 +16071,7 @@
           (xy -2.286 -2.667)
           (xy -4.064 -2.667)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17215,11 +16081,7 @@
           (xy 1.27 -4.699)
           (xy -0.508 -3.683)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17229,11 +16091,7 @@
           (xy -2.286 2.413)
           (xy -4.064 2.413)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17243,11 +16101,7 @@
           (xy 1.27 0.381)
           (xy -0.508 1.397)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17257,11 +16111,7 @@
           (xy -2.286 7.493)
           (xy -4.318 7.493)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17271,11 +16121,7 @@
           (xy 1.27 5.461)
           (xy -0.508 6.477)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17285,11 +16131,7 @@
           (xy -0.508 -5.715)
           (xy 1.27 -6.731)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17299,11 +16141,7 @@
           (xy 3.048 -7.747)
           (xy 4.318 -7.747)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17313,11 +16151,7 @@
           (xy -0.508 -0.635)
           (xy 1.27 -1.651)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17327,11 +16161,7 @@
           (xy 3.048 -2.667)
           (xy 4.318 -2.667)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17341,11 +16171,7 @@
           (xy -0.508 4.445)
           (xy 1.27 3.429)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17355,11 +16181,7 @@
           (xy 3.048 2.413)
           (xy 4.318 2.413)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17369,11 +16191,7 @@
           (xy -0.508 9.525)
           (xy 1.27 8.509)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
       (polyline
@@ -17383,11 +16201,7 @@
           (xy 3.048 7.493)
           (xy 4.318 7.493)
         )
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type none))
       )
     )
@@ -17481,11 +16295,7 @@
     )
     (symbol "USB4105-GF-A_0_0"
       (rectangle (start 0 -12.7) (end 15.24 17.78)
-<<<<<<< Updated upstream
-        (stroke (width 0.254) (type solid))
-=======
         (stroke (width 0.254) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
       (pin power_in line (at 20.32 -7.62 180) (length 5.08)
@@ -17569,11 +16379,7 @@
     )
     (symbol "Zoe-M8G_0_1"
       (rectangle (start 0 0) (end 55.88 24.13)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -17799,11 +16605,7 @@
     )
     (symbol "Zoe-M8Q_0_1"
       (rectangle (start 0 0) (end 55.88 24.13)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
@@ -18029,11 +16831,7 @@
     )
     (symbol "nRF52811_QFN32-MargoGeneral-MargoGeneral_0_1"
       (rectangle (start 0 0) (end 27.94 49.53)
-<<<<<<< Updated upstream
-        (stroke (width 0) (type solid))
-=======
         (stroke (width 0) (type default))
->>>>>>> Stashed changes
         (fill (type background))
       )
     )
