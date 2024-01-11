@@ -95,4 +95,9 @@
     (solder_mask_margin 0.001) (tstamp e477e80f-3cff-4154-abb2-36b09c55e833))
   (pad "M9" smd circle (at 6.17 -4.33) (size 0.275 0.275) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.001) (tstamp 07c0c78a-f159-47ed-9c23-b1d15afde9c1))
+  (model "C:/GitHub/Veridian-Library-KiCad/3D/BGT60TR13C v1.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
